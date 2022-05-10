@@ -131,3 +131,10 @@ A dfn tag is used to define some new terminology
     - continue
     - loops & arrays
     - performance issues
+  
+  ## Things I want to know more
+
+  * How to better utilize loops 
+  * How to better understand variables to be able to make my code more reusable
+  * Learn how to properly use arrays
+  * Figure out how specific I need to be with selectors
